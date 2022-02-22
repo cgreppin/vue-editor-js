@@ -42,7 +42,7 @@
   },
   "peerDependencies": {
     "@vue/composition-api": "latest",
-    "vue": "latest"
+    "vue": "^2.0.0 || >=3.2.13"
   },
   "devDependencies": {
     "@editorjs/warning": "latest",
